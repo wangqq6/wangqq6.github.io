@@ -10,6 +10,7 @@ My reseach is focusing on the micro-/nano-robotics field, related topics includi
 
 
 ### Selected Journal Publications
+- **Q Wang**, L Yang, L Zhang, _IEEE Transactions on Automation Science and Engineering_, Under revision, 2020
 - **Q Wang**, L Zhang, Ultrasound Imaging and Tracking of Micro/Nanorobots: From Individual to Collectives, _IEEE Open Journal of Nanotechnology_, accepted, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9040608)
 - **Q Wang**, L Yang, J Yu, PWY Chiu, YP Zheng, L Zhang, Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance, _IEEE Transactions on Biomedical Engineering_,accepted, 2020
 - **Q Wang**, J Yu, K Yuan, L Yang, D Jin, L Zhang, Disassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, _Applied Materials Today_, 2020 [link](https://www.sciencedirect.com/science/article/pii/S2352940719306080)
