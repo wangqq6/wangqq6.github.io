@@ -37,10 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Recent Highlights
-- Our paper, entitled Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance has been accepted in IEEE Trans. Biomedical Engineering!
-- Our paper, entitled Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging has been accepted as in ICRA 2020 (Paris)!
+- Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Trans. Biomedical Engineering**!
+- Our paper, entitled _Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging_ has been accepted in **ICRA 2020** (Paris)!
 
 ### Selected Journal Publications
+-
 
 ### Selected Conference Publications
 
