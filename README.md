@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Selected Journal Publications
 - **Q Wang**, L Zhang, Ultrasound Imaging and Tracking of Micro/Nanorobots: From Individual to Collectives, _IEEE Open Journal of Nanotechnology_, accepted, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9040608)
 - **Q Wang**, L Yang, J Yu, PWY Chiu, YP Zheng, L Zhang, Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance, _IEEE Transactions on Biomedical Engineering_,accepted, 2020
-- **Q Wang**, J Yu, K Yuan, L Yang, D Jin, L ZhangDisassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, _Applied Materials Today_, 2020 [link](https://www.sciencedirect.com/science/article/pii/S2352940719306080)
+- **Q Wang**, J Yu, K Yuan, L Yang, D Jin, L Zhang, Disassembly and Spreading of Magnetic Nanoparticle Clusters on Uneven Surfaces, _Applied Materials Today_, 2020 [link](https://www.sciencedirect.com/science/article/pii/S2352940719306080)
 - **Q Wang**, L Yang, B Wang, E Yu, J Yu, L Zhang, Collective Behavior of Reconfigurable Magnetic Droplets via Dynamic Self-Assembly, ACS applied materials & interfaces, 2019 [link](https://pubs.acs.org/doi/abs/10.1021/acsami.8b17402?__cf_chl_jschl_tk__=dcd3d75804034de41939bf21cc25809bb626ebc4-1586927372-0-ARVUuWvDW1LgWUTyE28rg_XDDPRgS8_a4V9lF0mLb-cuz5W97gPs5AkcPzYfPy4eN46f0aTP_ANVfPDucuadbbl8GMgwaRQXOJEoDIQKIVPCxw_wvAXuuaREwyKYnJlnsUh81jiYrG5_LNZwWM1Ji22b70SUN94JRVq6kCJ4CX1-MzWz1afvQFTQWimDYWB63ojUpY2_wt1cyh7FtPb644xE1cDn6qqXIiU09Rycatoqt0xSP9C8piZCBbuKgrMaDp00Ol8a2dkUrrmih7rOmZ25sFpLB2mUDD0keekmt7j9HTgxDTNB05RqTEYSlTv-_g)
 - L Yang^, **Q Wang^**, L Zhang, Model-free trajectory tracking control of two-particle magnetic microrobot, _IEEE Transactions on Nanotechnology_, 2018 [link](https://ieeexplore.ieee.org/abstract/document/8317002)
 - **Q Wang**, L Yang, J Yu, L Zhang, Characterizing dynamic behaviors of three-particle paramagnetic microswimmer near a solid surface, _Robotics and biomimetics_, 2017 [link](https://link.springer.com/article/10.1186/s40638-017-0076-0)
@@ -51,8 +51,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Selected Conference Publications
 - **Q Wang** et al, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020, accepted
--**Q Wang**, X Du, F Ji, L Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_,2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
--**Q Wang**, L Yang, J Yu, CI Vong, PWY Chiu, L Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2019 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
+- **Q Wang**, X Du, F Ji, L Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
+- **Q Wang**, L Yang, J Yu, CI Vong, PWY Chiu, L Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2019 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
 
 
 ### Awards
