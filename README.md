@@ -1,7 +1,7 @@
 ### About me
 I am currently a Ph.D. candidate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). Before joining Prof. Li Zhang's group in 2016, I was working as a master student in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). I received my B.Eng in Mechatronics from Hefei University of Technology (HFUT) in 2015.
 
-My reseach is focusing on the micro-/nano-robotics field, related topics including the collectie behaviors of micro/nanorobots, real-time control and navigation of magnetic swarming micro/nanorobots，and dynamic self-assembly. I am also interest in the integration of swarming micro/nanorobots with medical imaging system for preclinical biomedical applications.
+My reseach is focusing on the micro-/nano-robotics field, related topics including the collectie behaviors of micro/nanorobots, real-time control and navigation of magnetic swarming micro/nanorobots，and dynamic self-assembly. I am also interested in the integration of swarming micro/nanorobots with medical imaging system for preclinical biomedical applications.
 
 
 ### Recent Highlights
@@ -20,7 +20,7 @@ My reseach is focusing on the micro-/nano-robotics field, related topics includi
 
 
 ### Selected Conference Publications
-- **Q Wang** et al, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020, accepted
+- **Q Wang**, B Wang, J Yu, K Schweizer, B Nelson, L Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020, accepted
 - **Q Wang**, X Du, F Ji, L Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
 - **Q Wang**, L Yang, J Yu, CI Vong, PWY Chiu, L Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
 
