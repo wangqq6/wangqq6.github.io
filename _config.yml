@@ -3,5 +3,4 @@ title: Qianqian Wang
 description: Welcome to my website!
 show_downloads: false
 logo: logo.jpg
-github:
-  is_project_page: false
+is_project_page: false
