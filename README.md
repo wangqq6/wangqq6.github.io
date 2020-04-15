@@ -15,8 +15,11 @@
 ### Selected Conference Publications
 - **Q Wang** et al, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020, accepted
 - **Q Wang**, X Du, F Ji, L Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
-- **Q Wang**, L Yang, J Yu, CI Vong, PWY Chiu, L Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2019 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
+- **Q Wang**, L Yang, J Yu, CI Vong, PWY Chiu, L Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
 
 ### Awards
-
+- 1st Runner-Up in CUHK Research Poster Exhibition, 2019. CUHK Press [link](http://www.iso.cuhk.edu.hk/english/publications/CUHKUPDates/article.aspx?articleid=2444)
+- Annual University Scholarship & Merit Student of HFUT, 3 times, 2011-2015
+- Outstanding Graduate, HFUT, 2015
+- China-Singapore Suzhou Industrial Park (SIP) Scholarship, 2014
 
