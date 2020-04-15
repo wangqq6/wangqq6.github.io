@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Selected Journal Publications
 - **Q Wang**, L Zhang, Ultrasound Imaging and Tracking of Micro/Nanorobots: From Individual to Collectives, _IEEE Open Journal of Nanotechnology_, accepted, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9040608)
-- Q Wang, L Yang, J Yu, PWY Chiu, YP Zheng, L Zhang, 
+- **Q Wang**, L Yang, J Yu, PWY Chiu, YP Zheng, L Zhang, _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_, 
 
 
 
