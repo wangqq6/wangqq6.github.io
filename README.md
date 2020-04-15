@@ -1,5 +1,5 @@
 ### About me
-I am currently a Ph.D. candidate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). Before joining Prof. Li Zhang's group in 2016, I was working as a master student in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). I received my B.Eng in Mechatronics from Hefei University of Technology (HFUT) in 2015.
+I am currently a Ph.D. candidate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). Before joining Prof. Li Zhang's group in 2016, I was working as a M.S. student in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). I received my B.Eng. in Mechatronics from Hefei University of Technology (HFUT) in 2015.
 
 My reseach is focusing on the micro-/nano-robotics field, related topics including the collectie behaviors of micro/nanorobots, real-time control and navigation of magnetic swarming micro/nanorobots，and dynamic self-assembly. I am also interested in the integration of swarming micro/nanorobots with medical imaging system for preclinical biomedical applications.
 
