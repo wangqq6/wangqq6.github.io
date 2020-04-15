@@ -41,7 +41,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - Our paper, entitled _Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging_ has been accepted in **ICRA 2020** (Paris)!
 
 ### Selected Journal Publications
--
+- **Q Wang**, L Zhang, Ultrasound Imaging and Tracking of Micro/Nanorobots: From Individual to Collectives, _IEEE Open Journal of Nanotechnology_, accepted, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9040608)
+- Q Wang, L Yang, J Yu, PWY Chiu, YP Zheng, L Zhang, 
+
+
 
 ### Selected Conference Publications
 
