@@ -1,3 +1,6 @@
+### About me
+I am currently a Ph.D. candidate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). Before joining Prof. Li Zhang's group, I was working as a master student in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST).
+
 ### Recent Highlights
 - Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Trans. Biomedical Engineering**!
 - Our paper, entitled _Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging_ has been accepted in **ICRA 2020** (Paris)!
