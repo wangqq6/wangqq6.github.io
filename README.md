@@ -1,9 +1,8 @@
 ### About me
-I am currently a Ph.D. candidate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). Before joining Prof. Li Zhang's group in 2016, I earned M.Sc. in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). I received my B.Eng. in Mechatronics from Hefei University of Technology (HFUT) in 2015.
+I am currently a Post-doc research associate in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). I received my Ph.D. degree from CUHK in 2020. Before joining CUHK in 2016, I received my M.Sc. degree in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). I received my B.Eng. in Mechatronics from Hefei University of Technology (HFUT) in 2015.
 
-My reseach currently focuses on the micro-/nano-robotics field. The relevant topics include the collectie behaviors of micro/nanorobots, real-time control and navigation of magnetic swarming micro/nanorobots，and dynamic self-assembly. Also, I am interested in the integration of swarming micro/nanorobots with medical imaging system for preclinical biomedical applications.
-
-
+My reseach currently focuses on the micro-/nano-robotics field. The relevant topics include collectie behaviors of micro/nanorobots, real-time feedback control of magnetic swarming micro/nanorobots，and dynamic self-assembly. Also, I am interested in the integration of swarming micro/nanorobots with medical imaging systems for preclinical biomedical applications, e.g., targeted deivery of Cells & microorganisms, Drugs, Energy, and Fluids (C,D,E,F).
+m
 ### Recent Highlights
 - Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Trans. Biomedical Engineering**!
 - Our paper, entitled _Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging_ has been accepted in **ICRA 2020 (Paris)**!
