@@ -17,7 +17,7 @@ I am currently a Post-doctoral Research Associate research associate in the Depa
 
 
 ### Selected Conference Publications
-- **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020, [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
+- **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
 - **Q. Wang**, L. Yang, J. Yu, C.I. Vong, P.W.Y. Chiu, L. Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018), 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
 
