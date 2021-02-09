@@ -8,6 +8,7 @@ Dr. Wang is a Post-doctoral Research Associate in the Department of Mechanical a
 
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
+- **Q. Wang** _et al._, IEEE T-MECH, Submitted.
 - **X. Du**^, **Q. Wang**^ _et al._, IEEE T-BME, under review.
 - **Q. Wang**^, L. Yang^, L. Zhang, _IEEE Transactions on Automation Science and Engineering_, Conditionally accepeted, 2021
 - **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, accepted, 2021
