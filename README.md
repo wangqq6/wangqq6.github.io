@@ -11,8 +11,8 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
 - **Q. Wang** _et al._, IEEE T-MECH, Submitted.
 - **X. Du**^, **Q. Wang**^ _et al._, IEEE T-BME, under review.
+- **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, Vol. 7, no. 9, eabe5914 [link](https://advances.sciencemag.org/content/7/9/eabe5914.full)
 - **Q. Wang**^, L. Yang^, L. Zhang, Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance, **_IEEE Transactions on Automation Science and Engineering_**, accepeted, 2021
-- **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, accepted, 2021
 - **Q. Wang**, L. Zhang, External Power-Driven Microrobotic Swarm: From Fundamental Understanding to Imaging-Guided Delivery, **_ACS Nano_**, accepeted, 2020
 - **Q. Wang**, L. Yang, J. Yu, P.W.Y. Chiu, Y.-P. Zheng, L. Zhang, Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance, **_IEEE Transactions on Biomedical Engineering_**, 2020 [link](https://ieeexplore.ieee.org/document/9069192)
 - **Q. Wang**, L. Zhang, Ultrasound Imaging and Tracking of Micro/Nanorobots: From Individual to Collectives, _IEEE Open Journal of Nanotechnology_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9040608)
