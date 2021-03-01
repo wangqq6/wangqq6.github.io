@@ -4,9 +4,9 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 ### Recent Highlights
 - Our paper, entitled _Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery_ has been accepted in **Science Advances**! This projects takes over a year and a half, following research projects are ongoing.
 - Our paper, entitled _Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood_ has been accepted in **IEEE ICRA 2021**! 
-- Our paper, entitled _Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance_ has been accepted in **IEEE Transactions on Automation Science and Engineering**! 
+- Our paper, entitled _Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance_ has been accepted in **IEEE Transactions on Automation Science and Engineering (T-ASE)**! 
 - Our review paper, entitled _External Power-Driven Microrobotic Swarm: From Fundamental Understanding to Imaging-Guided Delivery_ has been accepted in **ACS Nano**!
-- Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Transactions on Biomedical Engineering**!
+- Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Transactions on Biomedical Engineering (T-BME)**!
 
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
