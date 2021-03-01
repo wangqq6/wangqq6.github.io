@@ -2,8 +2,9 @@
 Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). He received the Ph.D. degree from CUHK in 2020. Before joining CUHK in 2016, he received the M.Sc. degree in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). His research focuses on the micro-/nano-robotics field, including collective behaviors of micro/nanorobots, real-time feedback control of magnetic swarming micro/nanorobots, ultrasound imaging-guided delivery, and dynamic self-assembly. He is also interested in the integration of swarming micro/nanorobots with medical imaging systems for preclinical biomedical applications, e.g., targeted delivery of Cells & Microorganisms, Drugs, Energy, and Fluids (C, D, E, F). He is now serving as the reviewer of IEEE RA-L, IEEE T-MECH, and ICRA. He is a number of IEEE and IEEE RAS.
 
 ### Recent Highlights
-- Our paper, entitled _Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance_ has been accepted in **IEEE Transactions on Automation Science and Engineering**! 
 - Our paper, entitled _Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery_ has been accepted in **Science Advances**! This projects takes over a year and a half, following research projects are ongoing.
+- Our paper, entitled _Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood_ has been accepted in **IEEE ICRA 2021**! 
+- Our paper, entitled _Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance_ has been accepted in **IEEE Transactions on Automation Science and Engineering**! 
 - Our review paper, entitled _External Power-Driven Microrobotic Swarm: From Fundamental Understanding to Imaging-Guided Delivery_ has been accepted in **ACS Nano**!
 - Our paper, entitled _Real-time Magnetic Navigation of a Rotating Colloidal Microswarm Under Ultrasound Guidance_ has been accepted in **IEEE Transactions on Biomedical Engineering**!
 
@@ -23,7 +24,7 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 
 
 ### Selected Conference Publications
-- **Q. Wang** et al., ICRA 2021, under review.
+- **Q. Wang** et al., Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood,  _IEEE International Conference on Robotics and Automation (ICRA 2021)_, 2021, accepted.
 - **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
 - **Q. Wang**, L. Yang, J. Yu, C.I. Vong, P.W.Y. Chiu, L. Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)_, 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
