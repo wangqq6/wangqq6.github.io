@@ -10,7 +10,7 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
-- **Q. Wang** _et al._, IEEE T-MECH, Submitted.
+- **Q. Wang** _et al._, IEEE T-MECH, under review.
 - **X. Du**^, **Q. Wang**^ _et al._, IEEE T-BME, under review.
 - **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, Vol. 7, no. 9, eabe5914 [link](https://advances.sciencemag.org/content/7/9/eabe5914.full)
 - **Q. Wang**^, L. Yang^, L. Zhang, Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance, **_IEEE Transactions on Automation Science and Engineering_**, accepeted, 2021
@@ -28,10 +28,10 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 - **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
 - **Q. Wang**, L. Yang, J. Yu, C.I. Vong, P.W.Y. Chiu, L. Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)_, 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
-
+- **Q. Wang**, L. Yang, J. Yu, L. Zhang, Characterizing dynamic swimming behaviors of three-particle magnetic microswimmer near a solid surface, _IEEE International Conference on Robotics and Biomimetics (ROBIO 2017)_, 2017
 ### Awards
 - 1st Runner-Up in CUHK Research Poster Exhibition, 2019. CUHK Press [link](http://www.iso.cuhk.edu.hk/english/publications/CUHKUPDates/article.aspx?articleid=2444)
 - Outstanding Graduate, HFUT, 2015
-- Annual University Scholarship & Merit Student of HFUT, 3 times, 2011-2015
+- Annual University Scholarship & Merit Student of HFUT, three times, 2011-2015
 - China-Singapore Suzhou Industrial Park (SIP) Scholarship, 2014
 
