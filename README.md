@@ -29,6 +29,8 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
 - **Q. Wang**, L. Yang, J. Yu, C.I. Vong, P.W.Y. Chiu, L. Zhang, Magnetic Navigation of a Rotating Colloidal Swarm Using Ultrasound Images, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)_, 2018 [link](https://ieeexplore.ieee.org/abstract/document/8593898)
 - **Q. Wang**, L. Yang, J. Yu, L. Zhang, Characterizing dynamic swimming behaviors of three-particle magnetic microswimmer near a solid surface, _IEEE International Conference on Robotics and Biomimetics (ROBIO 2017)_, 2017
+
+
 ### Awards
 - 1st Runner-Up in CUHK Research Poster Exhibition, 2019. CUHK Press [link](http://www.iso.cuhk.edu.hk/english/publications/CUHKUPDates/article.aspx?articleid=2444)
 - Outstanding Graduate, HFUT, 2015
