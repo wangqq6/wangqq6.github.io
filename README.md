@@ -11,6 +11,7 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
 - **Q. Wang** _et al._, IEEE T-MECH, under review.
+- **Q. Wang** _et al._, IEEE T-MECH, under review.
 - **X. Du**^, **Q. Wang**^ _et al._, IEEE T-BME, under review.
 - **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, Vol. 7, no. 9, eabe5914 [link](https://advances.sciencemag.org/content/7/9/eabe5914.full)
 - **Q. Wang**^, L. Yang^, L. Zhang, Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance, **_IEEE Transactions on Automation Science and Engineering_**, accepeted, 2021
