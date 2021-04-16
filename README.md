@@ -24,7 +24,8 @@ Dr. Wang is a Postdoctoral Fellow in the Department of Mechanical and Automation
 - **Q. Wang**, L. Yang, J. Yu, L. Zhang, Characterizing dynamic behaviors of three-particle paramagnetic microswimmer near a solid surface, _Robotics and Biomimetics_, 2017 [link](https://link.springer.com/article/10.1186/s40638-017-0076-0)
 
 
-### Selected Conference Publications
+### Selected Conference Publications and presentations
+- **Q. Wang** et al., Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance,_International Conference on Automation Science and Engineering_, 2021 (_invited presentation_).
 - **Q. Wang** et al., Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood,  _IEEE International Conference on Robotics and Automation (ICRA 2021)_, 2021, accepted.
 - **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
