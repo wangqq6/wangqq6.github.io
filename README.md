@@ -28,7 +28,7 @@ Prof. Wang is current an Associate Professor @ Southeast University, Nanjing, Ch
 
 
 ### Selected Conference Publications and presentations
-- **Q. Wang** et al., Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance,_International Conference on Automation Science and Engineering_, 2021 (_invited presentation_).
+- **Q. Wang** et al., Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance,_International Conference on Automation Science and Engineering_, 2021 (_Invited_).
 - **Q. Wang** et al., Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood,  _IEEE International Conference on Robotics and Automation (ICRA 2021)_, 2021.
 - **Q. Wang**, B. Wang, J. Yu, K. Schweizer, B. Nelson, L. Zhang, Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging, _IEEE International Conference on Robotics and Automation (ICRA 2020)_, 2020 [link](https://ieeexplore.ieee.org/abstract/document/9197432) 
 - **Q. Wang**, X. Du, F. Ji, L. Zhang, Magnetic-Needle-Assisted Micromanipulation of Dynamically Self-Assembled Magnetic Droplets for Cargo Transportation, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)_, 2019 [link](https://ieeexplore.ieee.org/abstract/document/8967848) 
