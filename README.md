@@ -2,7 +2,7 @@
 Prof. Wang is current an Associate Professor @ Southeast University, Nanjing, China. Before joining SEU, he was a Postdoctoral Fellow at the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK). He received the Ph.D. degree from CUHK in 2020, and the M.Sc. degree in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). His research focuses on the micro-/nano-robotics field, including collective behaviors of micro/nanorobots, real-time feedback control of magnetic swarming micro/nanorobots, ultrasound imaging-guided delivery, and dynamic self-assembly. He is also interested in the integration of swarming micro/nanorobots with medical imaging systems for preclinical biomedical applications, e.g., targeted delivery of Cells & Microorganisms, Drugs, Energy, and Fluids (C, D, E, F). He is a reviewer of IEEE RA-L, IEEE T-MECH, TBME, TASE, ICRA, IROS .etc. He is a number of IEEE.
 
 ### Recent Highlights
-- - Our review paper, entitled _Real-Time Ultrasound Doppler Tracking and Autonomous Navigation of a Miniature Helical Robot for Accelerating Thrombolysis in Dynamic Blood Flow_ has been published in **ACS Nano!**
+- Our review paper, entitled _Real-Time Ultrasound Doppler Tracking and Autonomous Navigation of a Miniature Helical Robot for Accelerating Thrombolysis in Dynamic Blood Flow_ has been published in **ACS Nano!**
 - Our paper, entitled _Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery_ has been accepted in **Science Advances!** This projects takes over a year and a half, following research projects are ongoing.
 - Our paper, entitled _Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood_ has been accepted in **IEEE ICRA 2021!**
 - Our paper, entitled _Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance_ has been accepted in **IEEE Transactions on Automation Science and Engineering (T-ASE)!**
@@ -10,12 +10,13 @@ Prof. Wang is current an Associate Professor @ Southeast University, Nanjing, Ch
 
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
-- **X. Du**^, **Q. Wang**^ _et al._, IEEE RA-L, under review.
-- **S. Yang**^, **Q. Wang**^ _et al._, Nature Commnunications, under review.
-- **M. Cai**^, **Q. Wang**^ _et al._, IEEE Transactions on Neural Networks and Learning Systems, under review.
+- X. Du^, **Q. Wang**^ _et al._, IEEE RA-L, under review.
+- S. Yang^, **Q. Wang**^ _et al._, Nature Commnunications, under review.
+- M. Cai^, **Q. Wang**^ _et al._, IEEE Transactions on Neural Networks and Learning Systems, under review.
+- **Q. Wang** _et al._, Real-Time Ultrasound Doppler Tracking and Autonomous Navigation of a Miniature Helical Robot for Accelerating Thrombolysis in Dynamic Blood Flow, **_ACS Nano_**, accepeted, 2022.
 - **Q. Wang** _et al._, Magnetic Actuation of a Dynamically Reconfigurable Microswarm for Enhanced Ultrasound Imaging Contrast,**_IEEE Transactions on Mechatronics_**, accepeted, 2022.
-- **Q. Wang** _et al._, Magnetic Navigation of Collective Cell Microrobots in Blood Under Ultrasound Doppler Imaging,**_IEEE Transactions on Mechatronics_**, accepeted, 2021.
-- **Q. Wang** _et al._, Reconfigurable Magnetic Microswarm for Accelerating tPA-Mediated Thrombolysis under Ultrasound Imaging, **_IEEE Transactions on Mechatronics_**, 2021.
+- **Q. Wang** _et al._, Magnetic Navigation of Collective Cell Microrobots in Blood Under Ultrasound Doppler Imaging, **_IEEE Transactions on Mechatronics_**, accepeted, 2021.
+- **Q. Wang** _et al._, Reconfigurable Magnetic Microswarm for Accelerating tPA-Mediated Thrombolysis under Ultrasound Imaging, **_IEEE Transactions on Mechatronics_**, accpeted, 2021.
 - **Q. Wang**, K.F. Chan, S. Schweizer, X. Du, D. Jin, S.C.H. Yu, B.J. Nelson, L. Zhang, Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery, **_Science Advances_**, Vol. 7, no. 9, eabe5914 [link](https://advances.sciencemag.org/content/7/9/eabe5914.full)
 - **Q. Wang**^, L. Yang^, L. Zhang, Micromanipulation Using Reconfigurable Self-Assembled Magnetic Droplets with Needle Guidance, **_IEEE Transactions on Automation Science and Engineering_**, accepeted, 2021
 - **Q. Wang**, L. Zhang, External Power-Driven Microrobotic Swarm: From Fundamental Understanding to Imaging-Guided Delivery, **_ACS Nano_**, accepted, 2020 [link](https://pubs.acs.org/doi/abs/10.1021/acsnano.0c07753)
