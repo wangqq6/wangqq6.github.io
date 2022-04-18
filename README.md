@@ -2,10 +2,10 @@
 Prof. Wang is current an Associate Professor @ Southeast University, Nanjing, China. Before joining SEU, he was a Postdoctoral Fellow at the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong (CUHK), where He received the Ph.D. degree in 2020. He received the M.Sc. degree in the Department of Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology (HKUST). His research is focusing on the micro-/nano-robotics field, including collective behaviors, real-time feedback control, ultrasound imaging-guided delivery, dynamic self-assembly, and micro-/nano-manipulation. He is also interested in integrating swarming micro/nanorobots with medical imaging systems for preclinical biomedical applications, e.g., targeted delivery of Cells & Microorganisms, Drugs, Energy, and Fluids (C, D, E, F). He serves as the Topic Editors of _Micromachines_ and _Frontiers in Robotics and AI_. He is a reviewer of _ACS Nano, Soft Robotics, IEEE RA-L, IEEE T-MECH, T-BME, T-ASE, ICRA, IROS_ .etc. He is a number of IEEE.
 
 ### Recent Highlights
-- 2022. 2 - **Dr. Wang joined SEU@Nanjing as an Associate Professor.**
-- 2022. 1 - Our paper, entitled _Real-Time Ultrasound Doppler Tracking and Autonomous Navigation of a Miniature Helical Robot for Accelerating Thrombolysis in Dynamic Blood Flow_ has been published in **ACS Nano!**
-- 2021. 9 - Our paper, entitled _Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood_ has been presented in **IEEE ICRA 2021!**
-- 2021. 2 - Our paper, entitled _Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery_ is now online in **Science Advances!** This projects takes over a year and a half, following research projects are ongoing.
+- (2022. 2) **Dr. Wang joined SEU@Nanjing as an Associate Professor.**
+- (2022. 1) Our paper, entitled _Real-Time Ultrasound Doppler Tracking and Autonomous Navigation of a Miniature Helical Robot for Accelerating Thrombolysis in Dynamic Blood Flow_ has been published in **ACS Nano!**[link](https://pubs.acs.org/doi/abs/10.1021/acsnano.1c07830)
+- (2021. 9) Our paper, entitled _Ultrasound Doppler Imaging and Navigation of Collective Magnetic Cell Microrobots in Blood_ has been presented in **IEEE ICRA 2021!**
+- (2021. 2) Our paper, entitled _Ultrasound Doppler-Guided Real-Time Navigation of a Magnetic Microswarm for Active Endovascular Delivery_ is now online in **Science Advances!** This projects takes over a year and a half, following research projects are ongoing. [link](https://advances.sciencemag.org/content/7/9/eabe5914.full)
 
 ### Selected Journal Publications (My Google scholar[link](https://scholar.google.com.hk/citations?user=Qf45pSsAAAAJ&hl=en))
 - X. Du^, Q. Wang^ _et al._, IEEE RA-L, under review. (^ denotes the co-first authorship)
